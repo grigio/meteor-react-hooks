@@ -1,0 +1,6 @@
+# .gitignore
+node_modules/
+packages/
+.meteor/local/
+.language/
+.vscode/
